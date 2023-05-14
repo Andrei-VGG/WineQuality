@@ -1,0 +1,9 @@
+References
+1. The main source of the code:  
+https://notebooks.githubusercontent.com/view/ipynb?browser=unknown_browser&bypass_fastly=true&color_mode=auto&commit=f9b771b45ec4e834a50a1f0b47041dc38990b9e6&device=unknown_device&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f416c657865794172656665762f6d616368696e654c6561726e696e672f663962373731623435656334653833346135306131663062343730343164633338393930623965362f4d4c5f7461736b5f312e6970796e62&logged_in=false&nwo=AlexeyArefev%2FmachineLearning&path=ML_task_1.ipynb&platform=unknown_platform&repository_id=416028444&repository_type=Repository&version=0
+2. Рекомендация по началу работе с GitHub:
+https://habr.com/ru/companies/yandex_praktikum/articles/700708/
+3. Рекомендация по запуску скрипта из Google Cloab:
+https://www.pingshiuanchua.com/blog/post/importing-your-own-python-module-or-python-file-in-colaboratory
+4. Ясные комментарии реализации метода GridSearchCV:
+https://www.datasklr.com/select-classification-methods/k-nearest-neighbors
